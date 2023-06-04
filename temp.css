@@ -1,0 +1,66 @@
+*:after{
+    padding: 3px;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+body{
+    /* background-color: rgb(223, 243, 152); */
+    background-image: url(https://cutewallpaper.org/21/black-bricks-wallpapers/High-Resolution-Images-Collection-of-Black-And-White-Brick-.jpg);
+}
+.Saurav{
+    width: 500px;
+    background-color: #f26666;
+    padding: 70px 40px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    box-shadow: 0 25px 30px rgba(0,0,0,0.25);
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin: 23px;
+}
+.vacant{
+    width: 45%;
+    margin: 2px;
+    text-align: center;
+}
+.kelvi{
+    margin: auto;
+    width: 45%;
+    padding: 0;
+    margin: 2px;
+    text-align: center;
+}
+input{
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid #eae3e3;
+    outline: none;
+    margin-top: 8px;
+    padding: 0 10px;
+}
+input:focus{
+    border-color: #3164ff;
+}
+h1{
+    text-align: center;
+    color: rgb(241, 237, 237);
+    font-size:60px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10%;
+   
+}
+
+body:hover{
+    background-color: rgb(108, 228, 228);
+}
+h1:hover{
+    color: rgb(237, 110, 110);
+    text-shadow: 2px 3px 5px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
